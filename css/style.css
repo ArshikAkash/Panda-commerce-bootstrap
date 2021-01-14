@@ -1,0 +1,9 @@
+.catagories img {
+	height: 100px;
+}
+.panda-slide,
+.carousel {
+	background-color: rgb(254, 234, 233);
+	border-radius: 20px;
+	padding: 20px;
+}
